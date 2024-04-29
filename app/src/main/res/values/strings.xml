@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Enter the temperature</string>
+    <string name="temp_input">temperature input</string>
+    <string name="temp_unit"> input Temperature unit :</string>
+    <string name="Celsius" translatable="false">Celsius</string>
+    <string name="Fahrenheit" translatable="false">Fahrenheit</string>
+    <string name="result"> Result : </string>
+    <string name="result_input"> result </string>
+    <string name="calculate">CONVERT</string>
+    <string name="switcher" translatable="false">auto-switch</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">entre la temperature</string>
+    <string name="temp_input">insertion temperature</string>
+    <string name="temp_unit">unité temperature</string>
+    <string name="calculate">CONVERTION</string>
+    <string name="result">Resultat :</string>
+    <string name="result_input">"resultat "</string>
+</resources>
