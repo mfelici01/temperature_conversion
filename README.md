@@ -1,0 +1,7 @@
+c'est une application de conversion de température que j'ai développée. J'ai créé cette application dans le cadre de mes études ou peut-être juste pour explorer et pratiquer mes compétences en programmation. L'objectif principal était de permettre aux utilisateurs de convertir facilement des températures entre différentes échelles, comme Celsius, Fahrenheit et Kelvin.
+
+Pour commencer, j'ai choisi le langage de programmation que je maîtrisais le mieux, probablement Python, car il est très adapté aux tâches de ce genre. Ensuite, j'ai écrit le code en suivant un modèle simple : d'abord, j'ai créé les fonctions de conversion pour chaque échelle de température, puis j'ai implémenté une interface utilisateur pour permettre aux utilisateurs d'entrer les valeurs à convertir et de choisir l'échelle de départ et d'arrivée.
+
+J'ai également veillé à ajouter des fonctionnalités supplémentaires pour rendre l'application plus conviviale. Par exemple, j'ai peut-être inclus la possibilité de choisir parmi différentes unités de température, comme les degrés Celsius, Fahrenheit ou Kelvin. J'ai également pu ajouter des validations pour m'assurer que les utilisateurs saisissent des valeurs valides et afficher des messages d'erreur en cas de besoin.
+
+Une fois le code écrit, j'ai testé l'application pour m'assurer qu'elle fonctionnait correctement dans différentes situations, en convertissant des températures positives et négatives, des valeurs extrêmes, etc. Si nécessaire, j'ai apporté des ajustements pour améliorer la précision ou la convivialité de l'application.
